@@ -1,0 +1,13 @@
+{
+  "name": "form-validator",
+  "version": "1.0.0",
+  "description": "Simple client side form validation. Check requird, length, email and password match",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "M Toufiq ELAHI"
+}
